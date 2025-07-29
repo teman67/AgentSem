@@ -6,6 +6,12 @@
 
 [View live website here](https://agent-rdf-shacl-creator-0f2d13e6fb10.herokuapp.com/)
 
+## 📊 Project Poster
+
+![AgentSem Poster](poster.png)
+
+*Overview of the AgentSem system architecture and workflow for automated semantic data generation*
+
 ## 🎯 Overview
 
 AgentSem bridges the gap between raw experimental data and structured semantic knowledge by:
@@ -358,6 +364,11 @@ For issues, questions, or feature requests:
 1. **GitHub Issues**: Report bugs and request features
 2. **Documentation**: Check this README and inline help
 3. **Community**: Join relevant materials science and semantic web forums
+
+### Developer Contact
+
+**Amirhossein Bayani**  
+📧 Email: [amirhossein.bayani@gmail.com](mailto:amirhossein.bayani@gmail.com)
 
 ---
 
