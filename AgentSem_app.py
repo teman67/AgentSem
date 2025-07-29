@@ -49,7 +49,18 @@ if 'user_input_text' not in st.session_state:
 if 'uploaded_file_content' not in st.session_state:
     st.session_state.uploaded_file_content = ""
 
+# GitHub Repository Link
+st.sidebar.markdown("### 📚 Project Repository")
+st.sidebar.markdown(
+    "[![GitHub](https://img.shields.io/badge/GitHub-AgentSem-blue?logo=github)](https://github.com/teman67/AgentSem)",
+    unsafe_allow_html=True
+)
+st.sidebar.markdown(
+    "[🔗 Read more about the AgentSem application](https://github.com/teman67/AgentSem)",
+    unsafe_allow_html=True
+
 # Sidebar: API Configuration
+st.sidebar.markdown("---")
 st.sidebar.header("🔐 API Configuration")
 provider, model = api_call()
 temperature = st.sidebar.slider("Temperature", 0.0, 1.0, 0.2)
