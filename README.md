@@ -8,9 +8,13 @@
 
 ## 📊 Project Poster
 
-![AgentSem Poster](poster.png)
-
-*Overview of the AgentSem system architecture and workflow for automated semantic data generation*
+<div align="center">
+  <img src="poster.png" alt="AgentSem Poster" width="100%" style="max-width: 1200px; height: auto;">
+  <br>
+  <em>Overview of the AgentSem system architecture and workflow for automated semantic data generation</em>
+  <br><br>
+  <a href="poster.png" target="_blank">🔍 View Full Resolution</a>
+</div>
 
 ## 🎯 Overview
 
